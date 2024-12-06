@@ -1,1 +1,1 @@
-{"ver":1.66, "link": "https://raw.githubusercontent.com/Nasrali11448/AdminPanel/refs/heads/main/panel.lua", "md5": "7c8b2787d0ca7809c6a40918197f0c67"}
+{"ver":1.66, "link": "https://raw.githubusercontent.com/Nasrali11448/AdminPanel/refs/heads/main/panel1.lua", "md5": "2224827b2a684b2a04451ef20e3f154e"}
